@@ -1,0 +1,119 @@
+
+
+.top{
+    height: 100vh;
+    width: 5rem;
+    top: 0;
+    position: fixed;
+    background-color: #292929;
+    color: #fff;
+    transition: 0.5s;
+    z-index: 1;
+}
+.logo{
+    font-size: 2rem;
+    color: #070600;
+}
+.logo-container{
+    background-color: #fff;
+    width: 60px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .7rem;
+    margin: 8px 10px;
+    cursor: pointer;
+    
+}
+.icons-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 20px;
+}
+
+#home{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+.logo-container-white{
+    width: 60px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .7rem;
+    margin: 12px 10px;
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.logo-container-white:hover{
+    background-color: white;
+    transition: 0.5s ease;
+}
+#home:hover{
+    color: #070600;
+    transition: 0.5s;
+}
+#shopping-icon{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+#shopping-icon:hover{
+    color: #070600;
+    transition: 0.5s;
+    
+}
+#gallery-icon{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+#gallery-icon:hover{
+    color: #070600;
+    transition: 0.5s;
+}
+#chat-icon{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+#chat-icon:hover{
+    color: #070600;
+    transition: 0.5s;
+}
+#contact-icon{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+#contact-icon:hover{
+    color: #070600;
+    transition: 0.5s;
+}
+#stars-icon{
+    color: #fff;
+    transition: 0.2s;
+    font-size: 2rem;
+    padding: 7px 13px;
+    border-radius: 0.5rem;
+}
+#stars-icon:hover{
+    color: #070600;
+    transition: 0.5s;
+}
+
